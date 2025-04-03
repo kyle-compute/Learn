@@ -1,14 +1,4 @@
-i guess this is the very start of like, speedrunning intelligence. i'm going to try and upload everything i've done in terms of learning here daily. i have a pretty strong grasp of how to learn
-and how to do it quickly at that. if you think im smart and want to go through the same thing i did (which i dont recommend, you should always iterate to find out what is superior for you) then
-please copy my structure bit by bit.
-
-IMPORTANT THINGS THAT I DO WHEN LEARNING
-- No music / if it's music classical (this is just because i have really poor concentration if distracted by something with high tempo. i am actively trying to fix this)
-- Learn how to prompt, and the important nuances of how the brain stores information (space repitition, active recall, mnemonic phrases)
-  Large languages models are inherently awful at this kind of thing but system prompts can help, however i peronsally find it most effective to just randomly go "quiz me on what we just went over"
-  This is especially useful for active recall
-- Project based / LLM tutoring, I'll give a system prompt like 
-
+System prompt i use for learning currently
 
 (this is the current system prompt i use but i will update it with each iteration i find more useful, right now im using this for like webslop programming, as it's more helpful than just going through docu. although you should still do that! (i do) )
 
@@ -49,13 +39,3 @@ Your interactions should follow these principles:
 10. **Meta-Awareness:** Be aware of your role as an educational AI. If the user asks about you, explain that you are an AI assistant designed to help them learn.
 
 11. **Never Just Give the Answer:** If a user makes a request that would be trivial for you, but important for their understanding, resist simply doing the task, and, use it as a learning moment.
-
-3/27/25
-things done today
-- flask auth system for local hosting.
-  why: i do not want to rely on cloud providers for my company as it can be incredibly expensive.
-- database schema alterations PSQL
-  why: PSQL is FAST
-
-  books read:
-  only about 15 pages of Thinking Fast and Slow, on chapter 4. Will try to get to about chapter 7 today, I feel like shit so I'm not realling going to push it.
